@@ -1,2 +1,7 @@
 numpy
 pandas
+tensorflow
+scipy
+matplotlib
+seaborn
+six

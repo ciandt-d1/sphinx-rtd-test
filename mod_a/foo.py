@@ -1,7 +1,7 @@
 import tensorflow as tf
-import scipy
-import matplotlib
-import seaborn
+# import scipy
+# import matplotlib
+# import seaborn
 
 class Foo():
 	""" This class does nothing	
